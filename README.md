@@ -1,6 +1,6 @@
 #Skripsi Mubarok
 
-###Requirements
+##Requirements
 
 * php 7.3 atau lebih
 * mysql
@@ -9,12 +9,12 @@
 * node JS
 
 
-###Cara Install
+##Cara Install
 
 * Siapkan database kosong
 * Masuk ke folder xampp/htdocs/
 * Buka cmd dari folder tersebut
-* clone project <code>git clone</code>
+* clone project <code>git clone https://github.com/dwicahyadi/aka_group.git</code>
 * msuk ke dalam project <code>cd/aka_group</code>
 * copy file .env.example <code>cp .env.example .env</code>
 * edit file .env dan masukan username dan password database
